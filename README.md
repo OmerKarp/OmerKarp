@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Omer Karp</h1>
-<h3 align="center">I'm a student at Bar Ilan Univarsity 🎓, and a Backend & Blockchain Developer at DcentraLab. 💻</h3>
+<h1 align="center">Hey 👋, I'm Omer Karp!</h1>
+<h3 align="center">I'm a student at Bar-Ilan University 🎓 and a Backend & Blockchain Developer at DcentraLab 💻.</h3>
 
-<h3 align="center">I have been coding for ~4 years now and love making projects, and my focus is on *QUALITY*. 💎</h3>
+<h3 align="center">I've been coding for ~4 years and love building projects, always focusing on QUALITY 💎.</h3>
 
-<h3 align="center">Give a look to my projects, maybe you'll find some inspiration 😄</h3>
+<h3 align="center">Check out my projects—maybe you'll find some inspiration! 😄</h3>
 
-<h3 align="center">📫 You can reach me via LinkedIn
+<h3 align="center">📫 Feel free to reach out via LinkedIn!
 <a href="https://linkedin.com/in/omerkarp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerkarp" height="30" width="40" /></a>
 </p>
 </br>
