@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Omer Karp!</h1>
-<h3 align="center">I'm a student at Bar-Ilan University 🎓 and a Backend & Blockchain Developer at DcentraLab 💻.</h3>
+<h3 align="center">I'm a Backend & Blockchain Developer at DcentraLab 💻.</h3>
 
-<h3 align="center">I've been coding for ~5 years and love building projects, always focusing on QUALITY 💎.</h3>
+<h3 align="center">I've been coding for 5+ years and love building projects, always focusing on QUALITY 💎.</h3>
 
 <h3 align="center">Check out my projects—maybe you'll find some inspiration! 😄</h3>
 
